@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с курсов от Skillbox, основным направлением которого является Fullstack-разработчик на Python. На данный момент завершил frontend часть и нахожусь в поисках работы, параллельно расширяя свои знания и навыки в этой области!
+Я начинающий веб-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с курсов от Skillbox, основным направлением которого является Fullstack-разработчик на Python. На данный момент завершил frontend часть и нахожусь в поисках работы, параллельно расширяя свои знания и навыки в этой области!
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
