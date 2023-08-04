@@ -55,7 +55,7 @@
 
 ---
 
-<!-- ### 💻 Codewars:
+### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large) -->
+![codewars](https://www.codewars.com/users/GrigoryBoykov/badges/large)
 
