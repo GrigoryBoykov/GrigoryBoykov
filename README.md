@@ -1,9 +1,9 @@
 
-# Привет, меня зовут Григорий!
+# Hello, my name is Grigorii!
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About me:
 
 Hi<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I’m a Full-Stack Developer with 6+ years of experience crafting fast, clean, and highly performant websites—from static landing pages to complex PHP-driven web apps and custom WordPress solutions. I specialize in hand-coded, semantic front-end markup paired with efficient back-end logic in PHP, always prioritizing speed, maintainability, and user experience.
 
