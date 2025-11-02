@@ -23,7 +23,7 @@ My WordPress expertise includes building custom WooCommerce stores, developing t
 
 ---
 
-### 💻 Технологии:
+### 💻 Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -36,18 +36,4 @@ My WordPress expertise includes building custom WooCommerce stores, developing t
    <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="gulp" alt="gulp" width="40" height="40"/>&nbsp;
 </div>
 
----
-
-### 🛠 Инструменты:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/GrigoryBoykov/badges/large)
 
