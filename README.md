@@ -13,23 +13,13 @@ My WordPress expertise includes building custom WooCommerce stores, developing t
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: Завершил курсы по frontend от Skillbox.
+- :telescope: Full Stack Developer
 
-- :seedling: Углубляюсь в знаниях React.
+- :seedling: PHP / MySQL
 
-- :zap: Решаю задачи на Codewars.
+- :zap: Responsive & Performant Front-End (HTML, CSS, JavaScript)
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-grigoryboykov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/grigoryboykov) [![Gmail Badge](https://img.shields.io/badge/-mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:grigory.ip@mail.ru)
-
----
-
-### 🤝 Социальные сети:
-
-  <div id="badges">
-    <a href="https://vk.com/mr_bo1kov" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-  </div>
+- :mailbox: Contact me: [![Telegram Badge](https://img.shields.io/badge/-grigoryboykov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/grigoryboykov) [![Gmail Badge](https://img.shields.io/badge/-mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:grigory.ip@mail.ru)
 
 ---
 
