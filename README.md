@@ -5,7 +5,9 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с курсов от Skillbox, основным направлением которого является Fullstack-разработчик на Python. На данный момент завершил frontend часть и нахожусь в поисках работы, параллельно расширяя свои знания и навыки в этой области!
+Hi<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I’m a Full-Stack Developer with 6+ years of experience crafting fast, clean, and highly performant websites—from static landing pages to complex PHP-driven web apps and custom WordPress solutions. I specialize in hand-coded, semantic front-end markup paired with efficient back-end logic in PHP, always prioritizing speed, maintainability, and user experience.
+
+My WordPress expertise includes building custom WooCommerce stores, developing tailored plugins, and leveraging Elementor and ACF to create flexible, client-friendly sites—all while maintaining top-tier performance through asset optimization, lean code, and modern best practices. Whether it’s a lightweight marketing site or a scalable e-commerce platform, I deliver robust, SEO-friendly solutions without unnecessary bloat.
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
